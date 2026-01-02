@@ -24,8 +24,6 @@
   - **Cloud platforms** (Google Cloud & AWS)
   - Best practices in **software architecture and clean code**
 
-- 👯 I’m looking to collaborate on [TEMPLATE 2](LINK 2)
-
 - 🤝 I’m looking for help with
   - Academic or research projects in **Systems Engineering**
   - Software development projects focused on **security, networks, or data analysis**
